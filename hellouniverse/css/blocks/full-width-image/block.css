@@ -1,0 +1,7 @@
+.block.full-width-image {
+    position: relative;
+    width: 100vw;
+    height: 56.25%; /* 16:9 aspect ratio */
+    background-size: cover;
+    background-position: center;
+}

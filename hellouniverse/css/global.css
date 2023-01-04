@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', Tahoma, system-ui, sans-serif;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  .wp-block {
+    max-width: 100% !important;
+  }
